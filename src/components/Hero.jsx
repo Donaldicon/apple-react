@@ -19,7 +19,7 @@ const Hero = () => {
                 </div>
             </div>
 
-            {/* iphone 16 */}
+            {/* iphone 16 phone */}
             <div className='mt-3 bg-gradient-to-b from-blue-950 from-25% via-blue-500 via-50% to-blue-100 to-80% h-fit flex justify-center pt-[50px] pb-[50px] relative z-100'>
                 <img src={iphone16Main} alt="iphone16 image" className='w-[350px] md:w-[800px] md:h-[500px]'/> 
                 <div className='absolute top-10 text-white text-[30px] md:text-[50px]'>
